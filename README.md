@@ -12,3 +12,5 @@ dm6-chrHis.chrom.sizes 	-> length of chromosomes
 dm6-chrHis.fa 		      -> FASTA of reference genome
 dm6-chrHis.gtf		      -> annotation of dm6_dHisC_chrHis reference genome
 dm6-chrHis.bed          -> 6 column BED file with gene names (from .gtf)
+
+The .fa and .gtf files can be access at https://doi.org/10.5281/zenodo.18986265
