@@ -10,7 +10,8 @@ The 1x Histone array (5kb repeat) is included as a new chromosome (chrHis)
 
 dm6-chrHis.chrom.sizes 	-> length of chromosomes
 dm6-chrHis.fa 		      -> FASTA of reference genome
-dm6-chrHis.gtf		      -> annotation of dm6_dHisC_chrHis reference genome
+dm6-chrHis.gtf		      -> annotation of dm6-chrHis reference genome
 dm6-chrHis.bed          -> 6 column BED file with gene names (from .gtf)
+chrHis_genes.gtf        -> annotation of just chrHis
 
 The .fa and .gtf files can be accessed at https://doi.org/10.5281/zenodo.18986265
